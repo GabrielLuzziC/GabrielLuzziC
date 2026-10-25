@@ -1,7 +1,7 @@
 # Hi there, I'm Gabriel Luzzi Correa 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=Gabriel%20Luzzi%20Correa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Embedded%20Systems%20%26%20Firmware&descFontSize=18&descAlignY=62" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E90FA&center=true&vCenter=true&width=650&lines=Gabriel+Luzzi+Correa;Computer+Engineering+Student+%40+UTFPR;Embedded+Systems+%26+Firmware+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
